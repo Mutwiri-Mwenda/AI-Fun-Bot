@@ -1,6 +1,7 @@
 # AI-Fun-Bot
 AI Fun Bot is a simple chatbot that responds with fun jokes, motivational quotes, and witty replies. It consists of a backend built with Node.js &amp; Express and a frontend using React &amp; Vite.
-#Features
+
+Features
 Simple chat interface
 Random fun responses
 Backend API for processing messages
@@ -8,12 +9,12 @@ Modern UI with React & Tailwind CSS
 
 Installation & Setup
 
-1. Clone the Repository
+Clone the Repository
 
-git clone https://github.com/yourusername/ai-fun-bot.git
+git clone (https://github.com/Mutwiri-Mwenda/AI-Fun-Bot.git)
 cd ai-fun-bot
 
-2. Backend Setup
+Backend Setup
 
 cd backend
 npm install
